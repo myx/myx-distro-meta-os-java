@@ -1,0 +1,9 @@
+Name: os-java
+Title: Distro, meta-package for Java 
+Requires: os-myx.common distro-source
+Augments: developer-sdk:recommended
+Suggests: 
+Declares: 
+Provides: java os.java os-java myx.os-java myx/myx.os-java
+Replaces: 
+Keywords: 
