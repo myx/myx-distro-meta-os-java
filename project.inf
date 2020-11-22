@@ -7,6 +7,7 @@ Declares:
 Provides: \
 	java os.java os-java myx.os-java myx/myx.os-java \
 	deploy-install-before:host/install/common-java.sh.txt \
+	deploy-keyword:java \
 	
 Replaces: 
 Keywords: 
