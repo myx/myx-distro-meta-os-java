@@ -7,7 +7,8 @@ Declares:
 Provides: \
 	java os.java os-java myx.os-java myx/myx.os-java \
 	image-install:exec-update-before:host/install/common-java.sh.txt \
-	deploy-keyword:java \
+	
+Keywords: \
+	java \
 	
 Replaces: 
-Keywords: 
